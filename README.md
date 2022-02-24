@@ -5,7 +5,7 @@ This is a very simple code to run an ESP8266 as an access point to send and rece
 
 ### Step 1 - Install ESP8266 boards on Arduino IDE:
 - Open File > Preferences, and under Aditional Board Manager URLs, copy this: https://arduino.esp8266.com/stable/package_esp8266com_index.json
-- Open Tools > Board > Board Managed, search for ESP8266 and install "esp8266" by "ESP8266 Community"
+- Open Tools > Board > Board Manager, search for ESP8266 and install "esp8266" by "ESP8266 Community"
 
 ### Step 2 - Upload server.ino on the ESP8622:
 - After installing the ESP8266 boards, they should be available under Tools > Board > ESP8266 Boards. I'm using board NodeMCU 1.0 (ESP-12E Module) because 
