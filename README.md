@@ -11,7 +11,7 @@ This is a very simple code to run an ESP8266 as an access point to send and rece
 - After installing the ESP8266 boards, they should be available under Tools > Board > ESP8266 Boards. I'm using board NodeMCU 1.0 (ESP-12E Module) because 
 I have an ESP-12F in my possession, which is equivalent.
 
-![alt text](https://github.com/andrevargas22/ESP8266_Access_Point/blob/main/images/img1.png)
+![alt text](https://github.com/andrevargas22/ESP8622_Access_Point/blob/main/images/img1.png)
 
 - After that, just upload the code to the ESP. This video by Indrek Luuk has instructions on how to upload codes to different ESP boards using Arduino IDE: https://www.youtube.com/watch?v=_iX67plFeLs
 
