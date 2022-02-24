@@ -68,6 +68,7 @@ Open /json2 to post a JSON to the ESP:
 ![alt text](https://github.com/andrevargas22/ESP8622_Access_Point/blob/main/images/img5.png)
 
 Responses on the ESP8266:
+
 ![alt text](https://github.com/andrevargas22/ESP8622_Access_Point/blob/main/images/img6.PNG)
 
 
