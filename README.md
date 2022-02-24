@@ -27,6 +27,7 @@ This is it for the server. It is running and ready to accept requests. In the ro
 There are different ways to send requests. You could for example use Postman, just connect to the ESP Soft AP and send requests using the ESP IP address:
 
 http:// + ESP_IP + /json1 -> Get Json
+
 http:// + ESP_IP + /json2 -> Post Json
 
 For this repo I created a small Flask server application that can be used to communicate with the ESP. To test it out, do the following steps:
