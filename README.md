@@ -21,7 +21,7 @@ declared in the server.ino code, which will keep blinking if no client is connec
 
 ![alt text](https://github.com/andrevargas22/ESP8622_Access_Point/blob/main/images/img2.png)
 
-This is it for the server. It is running and ready to accept requests. In the route '/json1', any connected client request a JSON from the ESP, and in the route '/json2', any connected client sends an JSON to the ESP.
+This is it for the server. It is running and ready to accept requests. In the route '/json1', any connected client request a JSON from the ESP, and in the route '/json2', any connected client sends a JSON to the ESP.
 
 ## Flask-Client Test Example Python Code:
 There are different ways to send requests. You could for example use Postman, just connect to the ESP Soft AP and send requests using the ESP IP address:
